@@ -1,5 +1,4 @@
 ﻿using dotnet_rpg.Dtos.Character;
-using dotnet_rpg.Models;
 using dotnet_rpg.Services.CharacterService;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
